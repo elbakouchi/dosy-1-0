@@ -1,0 +1,14 @@
+.modification-employé-view {
+  display: block;
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 0 var(--lumo-space-l);
+}
+.modification-employé-view .button-layout {
+  margin-bottom: var(--lumo-space-l);
+  margin-top: var(--lumo-space-m);
+}
+.modification-employé-view h3 {
+  margin-bottom: var(--lumo-space-s);
+  margin-top: var(--lumo-space-l);
+}

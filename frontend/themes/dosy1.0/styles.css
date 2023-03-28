@@ -1,0 +1,18 @@
+@import url('./main-layout.css');
+@import url('./views/dashboard-view.css');
+@import url('./views/dotations-view.css');
+@import url('./views/articles-view.css');
+@import url('./views/offres-view.css');
+@import url('./views/commandes-view.css');
+@import url('./views/transferts-view.css');
+@import url('./views/modification-employé-view.css');
+@import url('./views/article-variants-view.css');
+@import url('./views/adresses-livraison-view.css');
+@import url('./views/connexion-view.css');
+@import url('./views/déconnexion-view.css');
+@import url('./views/about-view.css');    html {
+      --lumo-border-radius-s: 1px;
+      --lumo-border-radius-m: 2px;
+      --lumo-border-radius-l: 4px;
+
+    }
